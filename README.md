@@ -118,3 +118,13 @@ usage
 ```
 ruby lazys3.rb <company>
 ```
+
+
+
+
+
+
+
+
+
+Here is your flag2 : Flag{Here_is_your_flag_2_keep_hunting}
